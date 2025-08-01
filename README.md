@@ -14,5 +14,5 @@ Make the file executable using this command: chmod +x web_rename
 Create a directory called web
 Put the files that you need to rename in that directory
 
-# MIT License
-# Copyright (c) [2025] [Alexandru Trofim]
+MIT License
+Copyright (c) [2025] [Alexandru Trofim]
