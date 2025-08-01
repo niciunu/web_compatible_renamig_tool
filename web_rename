@@ -9,6 +9,7 @@
 # Make the file executable using this command: chmod +x web_rename
 # Create a directory called web
 # Put the files that you need to rename in that directory
+# Execute the script using the command ./web_rename
 
 # MIT License
 # Copyright (c) [2025] [Alexandru Trofim]

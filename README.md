@@ -13,6 +13,7 @@ https://tldp.org/LDP/abs/html/string-manipulation.html (viewed on August 2025)
 2. Make the file executable using this command: chmod +x web_rename
 3. Create a directory called web
 4. Put the files that you need to rename in that directory
+5. Execute the script using the command ./web_rename
 
 MIT License
 Copyright (c) [2025] [Alexandru Trofim]
