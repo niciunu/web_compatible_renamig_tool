@@ -9,10 +9,10 @@ https://askubuntu.com/questions/613179/bash-script-to-rename-files-in-a-director
 https://tldp.org/LDP/abs/html/string-manipulation.html (viewed on August 2025)
 
 # How to use:
-Save the file in a folder
-Make the file executable using this command: chmod +x web_rename
-Create a directory called web
-Put the files that you need to rename in that directory
+1. Save the file in a folder
+2. Make the file executable using this command: chmod +x web_rename
+3. Create a directory called web
+4. Put the files that you need to rename in that directory
 
 MIT License
 Copyright (c) [2025] [Alexandru Trofim]
